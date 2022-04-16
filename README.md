@@ -6,7 +6,7 @@
 
   <p>🏫 Computer Science  student Based in NYC</p>
   <p>💼 Currently working as acollege assistant for CUNY EXPLORERS</p>
-  <p>📖 Learning new frameworks and concepts.</p>
+  <p>📖 Learning new Technologies</p>
  
 
 ### And my skills
@@ -26,15 +26,7 @@
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     </td>
   </tr>
-  <tr>
-    <td>
-      <p>Design</p>
-    </td>
-    <td>
-      <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-    </td>
-  </tr>
+
   <tr>
     <td>
       <p>Frontend</p>
@@ -55,7 +47,7 @@
       <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     </td>
   </tr>
-  
+  <tr>
     <td>
       <p>Version control</p>
     </td>
@@ -77,22 +69,12 @@
       <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td>
-      <p>Tools/Other</p>
-    </td>
-    <td>
-      <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-      <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-    </td>
-  </tr>
+ 
   <tr>
     <td>
       <p>Currently learning</p>
     </td>
     <td>
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
       <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </td>
   </tr>
