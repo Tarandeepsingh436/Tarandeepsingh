@@ -1,19 +1,15 @@
-# Hey! 👋
+# Hey It's Taran Here.   👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tarandeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarandeep-singh1/)](https://www.linkedin.com/in/tarandeep-singh1/)
 
-### About me 😊
+### 👨‍💻 COMPUTER SCIENCE STUDENT 
+### 💻 PASSIONATE ABOUT TECH
 
-  <p>🏫 Computer Science  student Based in NYC</p>
-  <p>💼 Currently working as acollege assistant for CUNY EXPLORERS</p>
-  <p>📖 Learning new Technologies</p>
  
 
-### And my skills
+# MY SKILLS
 
 <table>
-  <th>Specality</th>
-  <th>Tools, Frameworks, Programming Languages</th>
+  <th>Tools, Framework, Programming languages </th>
   <tr>
     <td>
       <p>Operanting System</p>
@@ -21,21 +17,24 @@
     <td>
       <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
       <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-      <img alt="Windows 11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+      <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
       <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     </td>
   </tr>
-
-  <tr>
+ <tr>
     <td>
       <p>Frontend</p>
     </td>
     <td>
       <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
       <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
     </td>
   </tr>
+  
+  
+  
   <tr>
     <td>
       <p>Backend</p>
@@ -47,6 +46,10 @@
       <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+
+    
+   
   <tr>
     <td>
       <p>Version control</p>
@@ -67,6 +70,7 @@
       <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
       <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
       <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+      <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
     </td>
   </tr>
  
@@ -80,4 +84,63 @@
   </tr>
  </table>
 
-<br></br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
