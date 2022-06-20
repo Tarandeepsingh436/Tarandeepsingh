@@ -47,15 +47,6 @@ src="https://img.shields.io/github/followers/Tarandeepsingh436?logo=github&style
 
 <a href="https://github.com/Tarandeepsingh436" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarandeepsingh436&langs_count=10&title_color=ec4899&text_color=facc15&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Taran"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
-
-
-
 
 
 
