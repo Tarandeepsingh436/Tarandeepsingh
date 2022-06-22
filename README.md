@@ -24,3 +24,8 @@ PASSIONATE ABOUT TECH
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Tarandeepsingh436/Mining-twitter-data-with-python" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tarandeepsingh436&repo=Mining-twitter-data-with-python&title_color=ef4444&text_color=ec4899&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
