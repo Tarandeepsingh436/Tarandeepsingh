@@ -20,9 +20,7 @@ PASSIONATE ABOUT TECH
 <a href="http://www.github.com/Tarandeepsingh436"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarandeepsingh436&stroke=ec4899&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ec4899&currStreakLabel=ef4444&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 <a href="http://www.github.com/Tarandeepsingh436"><img src="https://activity-graph.herokuapp.com/graph?username=Tarandeepsingh436&bg_color=000000&color=ec4899&line=a855f7&point=ec4899&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/Tarandeepsingh436" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarandeepsingh436&langs_count=10&title_color=ef4444&text_color=ec4899&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 
 <b>Top Repositories</b>
